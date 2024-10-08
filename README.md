@@ -61,17 +61,17 @@ To run the code in this repository, you need to install the following dependenci
 - Scikit-learn
 - Jupyter Notebook
 
-You can install all dependencies by running:
-pip install -r requirements.txt
+You can install all dependencies by running:  
+```pip install -r requirements.txt```
 
 ## How to Run
-1. Clone this repository:
+1. Clone this repository:  
 ```git clone https://github.com/sangrambhise/OasisInfobyte.git```
-2. Navigate to the project folder:
+2. Navigate to the project folder:  
 ```cd OasisInfobyte```
-3. Install the required libraries (if not installed):
+3. Install the required libraries (if not installed):  
 ```pip install -r requirements.txt```
-4. Run the Jupyter Notebook for the task you want to explore:
+4. Run the Jupyter Notebook for the task you want to explore:  
 ```jupyter notebook task1.ipynb```
 
 ## Folder Structure
