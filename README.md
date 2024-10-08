@@ -66,52 +66,36 @@ pip install -r requirements.txt
 
 ## How to Run
 1. Clone this repository:
-git clone https://github.com/sangrambhise/OasisInfobyte.git
+```git clone https://github.com/sangrambhise/OasisInfobyte.git```
 2. Navigate to the project folder:
-cd OasisInfobyte
+```cd OasisInfobyte```
 3. Install the required libraries (if not installed):
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 4. Run the Jupyter Notebook for the task you want to explore:
-jupyter notebook task1.ipynb
+```jupyter notebook task1.ipynb```
 
 ## Folder Structure
-
 The folder structure of this project is as follows:
-
 ```
 OasisInfobyte/
-
 ├── Task1_Iris_Classification/
-
 │   ├── task1.ipynb        # Jupyter Notebook for Iris Classification
 │   ├── dataset.csv        # Iris dataset
 │   └── results.png        # Example of model evaluation results
-
-
 ├── Task2_Unemployment_Analysis/
-
 │   ├── task2.ipynb        # Jupyter Notebook for Unemployment Analysis
 │   ├── dataset.csv        # Unemployment dataset
 │   └── results.png        # Visualizations of trends
-
-
 ├── Task3_Sales_Prediction/
-
 │   ├── task3.ipynb        # Jupyter Notebook for Sales Prediction
 │   ├── dataset.csv        # Retail sales dataset
 │   └── results.png        # Predictions and visualizations
-
-
 ├── Task4_Temperature_Analysis/
-
 │   ├── task4.ipynb        # Jupyter Notebook for Temperature Analysis
 │   ├── dataset.csv        # Historical temperature data
 │   └── results.png        # Forecasted temperature trends
-
-
 └── requirements.txt       # List of dependencies
 ```
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
