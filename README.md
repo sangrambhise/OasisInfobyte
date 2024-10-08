@@ -100,6 +100,7 @@ OasisInfobyte/
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or feedback, feel free to contact Sangram Bhise at below given links
-LinkedIn: linkedin.com/in/sangrambhise
-Project Link: [OasisInfobyte Repository](https://github.com/sangrambhise/Weather-Website)
+For any questions or feedback, feel free to contact Sangram Bhise at the links below:  
+LinkedIn: [linkedin.com/in/sangrambhise](https://linkedin.com/in/sangrambhise)  
+Project Link: [OasisInfobyte Repository](https://github.com/sangrambhise/OasisInfobyte)
+
