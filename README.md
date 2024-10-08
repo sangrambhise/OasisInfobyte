@@ -75,6 +75,10 @@ pip install -r requirements.txt
 jupyter notebook task1.ipynb
 
 ## Folder Structure
+
+The folder structure of this project is as follows:
+
+```
 OasisInfobyte/
 
 ├── Task1_Iris_Classification/
@@ -106,8 +110,7 @@ OasisInfobyte/
 
 
 └── requirements.txt       # List of dependencies
-
-
+```
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
