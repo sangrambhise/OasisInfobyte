@@ -64,7 +64,7 @@ To run the code in this repository, you need to install the following dependenci
 You can install all dependencies by running:
 pip install -r requirements.txt
 
-### How to Run
+## How to Run
 1. Clone this repository:
 git clone https://github.com/sangrambhise/OasisInfobyte.git
 2. Navigate to the project folder:
@@ -76,7 +76,6 @@ jupyter notebook task1.ipynb
 
 ## Folder Structure
 OasisInfobyte/
-│
 ├── Task1_Iris_Classification/
 │   ├── task1.ipynb        # Jupyter Notebook for Iris Classification
 │   ├── dataset.csv        # Iris dataset
@@ -103,5 +102,6 @@ OasisInfobyte/
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-linkedin.com/in/sangrambhise
-Project Link: https://github.com/sangrambhise/Weather-Website
+For any questions or feedback, feel free to contact Sangram Bhise at below given links
+LinkedIn: linkedin.com/in/sangrambhise
+Project Link: [OasisInfobyte Repository](https://github.com/sangrambhise/Weather-Website)
